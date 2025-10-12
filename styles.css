@@ -19,7 +19,7 @@
     display: block;
     margin-bottom: 10px;
     background-color: rgb(148, 101, 84);
-    padding: 10px;
+    padding: 20px 60px;
     border-radius: 15px;
 }
 
@@ -33,3 +33,5 @@
         background-color: rgb(148, 101, 84);
         text-decoration: none;
  }
+ 
+

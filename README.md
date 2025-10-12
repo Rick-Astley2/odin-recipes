@@ -1,7 +1,12 @@
 # odin-recipes
 Project:
 Building a website full of links to different cooking recipes
-consists of a main index page
+consists of a main index page, and 3 recipes. using html and css for styling
 
 What skills I will demonstrate with this project: 
-using links, images, and tags for <p> and <h>.
+
+html:
+    using links, images, and tags for <p> and <h>.
+
+css:
+    using things like color, background color, classes, box-sizing, and display.
