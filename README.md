@@ -6,7 +6,7 @@ consists of a main index page, and 3 recipes. using html and css for styling
 What skills I will demonstrate with this project: 
 
 html:
-    using links, images, and tags for <p> and <h>.
+    using links, images, lists and tags like p and h.
 
 css:
     using things like color, background color, classes, box-sizing, and display.
