@@ -8,9 +8,25 @@
 
 .title {
     text-align: center;
+
     background-color: rgb(100, 72, 19);
     margin: 20px;
     padding: 10px;
-
     color: white;
+}
+
+.container {
+    text-align: center;
+}
+
+.list {
+    display: block;
+}
+
+.list li {
+    margin: 20px;
+}
+
+.list img {
+        margin: 20px;
 }
