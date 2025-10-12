@@ -1,6 +1,6 @@
 * {
     margin: 0 auto;
-    padding: 0 auto;
+    padding: 0;
     box-sizing: border-box;
     background-color: rgb(208, 188, 151);
 }
@@ -15,18 +15,12 @@
     color: white;
 }
 
-.container {
-    text-align: center;
-}
-
-.list {
-    display: block;
-}
 
 .list li {
-    margin: 20px;
+    margin: 30px 40px;
 }
 
 .list img {
         margin: 20px;
+        
 }
