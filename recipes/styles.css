@@ -15,6 +15,9 @@
     color: white;
 }
 
+.description {
+    margin: 8px 30px;
+}
 
 .list li {
     margin: 30px 40px;
@@ -23,4 +26,9 @@
 .list img {
         margin: 20px;
         
+}
+
+.food {
+    display: block;
+    margin: auto;
 }
