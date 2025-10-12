@@ -23,6 +23,7 @@
 }
 
 .recipes button:hover{
+
     background-color: rgb(143, 68, 40);
 }
 
@@ -34,5 +35,4 @@
 .recipes a {
         background-color: rgb(148, 101, 84);
         text-decoration: none;
-    
  }
